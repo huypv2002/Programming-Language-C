@@ -141,3 +141,4 @@ void SList<data>::sort_insertion(bool ascending)
   
   SList_insertion(head, ascending);
 }
+//bull neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
